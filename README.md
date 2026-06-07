@@ -1,7 +1,7 @@
 # COMP304 - Human Robot Interaction
 
 <p align="center">
-  <img src="Documentation/Photo%20&%20Diagrams/assembly.png" width="600">
+  <img src="COMP304-Human-Robot-Interaction-main/Documentation/Photo & Diagrams/assembly.png" width="600">
 </p>
 
 
