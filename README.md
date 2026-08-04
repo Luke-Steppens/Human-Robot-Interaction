@@ -4,7 +4,9 @@
   <img src="COMP304-Human-Robot-Interaction-main/Documentation/Photo & Diagrams/assembly.png" width="600">
 </p>
 
-
+<p align="center">
+  <img src="COMP304-Human-Robot-Interaction-main/Documentation/Photo & Diagrams/SV.jpeg" width="600">
+</p>
 
 ## Overview
 
